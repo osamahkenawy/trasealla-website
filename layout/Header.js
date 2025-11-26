@@ -34,7 +34,7 @@ const Header1 = ({ singleMenu }) => {
                 <ul>
                   <li>
                     <i className="far fa-phone" /> Need any help? Call :{" "}
-                    <a href="callto:+000(123)4588">+000 (123) 45 88</a>
+                    <a href="tel:+971522200730">+971 52 220 0730</a> / <a href="tel:+971558446048">+971 55 844 6048</a>
                   </li>
                 </ul>
               </div>
@@ -44,8 +44,8 @@ const Header1 = ({ singleMenu }) => {
                 <ul>
                   <li>
                     <i className="far fa-envelope" /> Support :{" "}
-                    <a href="mailto:uintechinfo@gmail.com">
-                      uintechinfo@gmail.com
+                    <a href="mailto:info@trasealla.com">
+                      info@trasealla.com
                     </a>
                   </li>
                   <li>
@@ -78,10 +78,10 @@ const Header1 = ({ singleMenu }) => {
             <div className="logo-outer">
               <div className="logo">
                 <Link href="/">
-                  <img
+                    <img
                     src="assets/images/logos/logo.png"
-                    alt="Logo"
-                    title="Logo"
+                    alt="Trasealla Solutions - Future Systems"
+                    title="Trasealla Solutions"
                   />
                 </Link>
               </div>
@@ -122,7 +122,7 @@ const Header2 = ({ singleMenu }) => {
                 <ul>
                   <li>
                     <i className="far fa-phone" /> Need any help? Call :{" "}
-                    <a href="callto:+000(123)4588">+000 (123) 45 88</a>
+                    <a href="tel:+971522200730">+971 52 220 0730</a> / <a href="tel:+971558446048">+971 55 844 6048</a>
                   </li>
                 </ul>
               </div>
@@ -132,8 +132,8 @@ const Header2 = ({ singleMenu }) => {
                 <ul>
                   <li>
                     <i className="far fa-envelope" /> Support :{" "}
-                    <a href="mailto:uintechinfo@gmail.com">
-                      uintechinfo@gmail.com
+                    <a href="mailto:info@trasealla.com">
+                      info@trasealla.com
                     </a>
                   </li>
                   <li>
@@ -166,10 +166,10 @@ const Header2 = ({ singleMenu }) => {
             <div className="logo-outer me-5 pe-xl-4">
               <div className="logo">
                 <Link href="/">
-                  <img
+                    <img
                     src="assets/images/logos/logo.png"
-                    alt="Logo"
-                    title="Logo"
+                    alt="Trasealla Solutions - Future Systems"
+                    title="Trasealla Solutions"
                   />
                 </Link>
               </div>
@@ -209,10 +209,10 @@ const Header3 = ({ singleMenu }) => {
             <div className="logo-outer">
               <div className="logo">
                 <Link href="/">
-                  <img
+                    <img
                     src="assets/images/logos/logo-white-blue.png"
-                    alt="Logo"
-                    title="Logo"
+                    alt="Trasealla Solutions - Future Systems"
+                    title="Trasealla Solutions"
                   />
                 </Link>
               </div>
@@ -268,8 +268,8 @@ const Header4 = ({ singleMenu }) => {
                       </div>
                     </li>
                     <li>
-                      <a href="mailto:support@gmail.com">
-                        support@gmail.com <i className="fal fa-arrow-right" />
+                      <a href="mailto:info@trasealla.com">
+                        info@trasealla.com <i className="fal fa-arrow-right" />
                       </a>
                     </li>
                   </ul>
@@ -320,10 +320,10 @@ const Header4 = ({ singleMenu }) => {
             <div className="logo-outer">
               <div className="logo">
                 <Link href="/">
-                  <img
+                    <img
                     src="assets/images/logos/logo2.png"
-                    alt="Logo"
-                    title="Logo"
+                    alt="Trasealla Solutions - Future Systems"
+                    title="Trasealla Solutions"
                   />
                 </Link>
               </div>
@@ -372,10 +372,10 @@ const Header5 = ({ singleMenu }) => {
             <div className="logo-outer">
               <div className="logo">
                 <Link href="/">
-                  <img
+                    <img
                     src="assets/images/logos/logo-white-blue.png"
-                    alt="Logo"
-                    title="Logo"
+                    alt="Trasealla Solutions - Future Systems"
+                    title="Trasealla Solutions"
                   />
                 </Link>
               </div>
@@ -394,7 +394,7 @@ const Header5 = ({ singleMenu }) => {
             <div className="menu-btns d-lg-flex align-items-center">
               <div className="header-number me-5 d-none d-xl-block">
                 <i className="fas fa-phone me-1" />
-                <a href="callto:+000(123)889933">+000 (123) 88 99 33</a>
+                <a href="tel:+971522200730">+971 52 220 0730</a>
               </div>
               <Link
                 href="/contact"
@@ -418,8 +418,7 @@ const Header6 = ({ singleMenu }) => {
         <div className="container">
           <div className="header-top">
             <div className="text">
-              <span className="hello">Hello</span> We’re professional IT
-              solutions company. Let’s work together{" "}
+              <span className="hello">Hello</span> We're Trasealla Solutions – Future Systems. Software for car rental, fleet & travel brands.{" "}
               <Link href="contact">Contact Us</Link>
             </div>
           </div>
@@ -432,10 +431,10 @@ const Header6 = ({ singleMenu }) => {
             <div className="logo-outer">
               <div className="logo">
                 <Link href="/">
-                  <img
+                    <img
                     src="assets/images/logos/logo-two.png"
-                    alt="Logo"
-                    title="Logo"
+                    alt="Trasealla Solutions - Future Systems"
+                    title="Trasealla Solutions"
                   />
                 </Link>
               </div>
@@ -477,7 +476,7 @@ const Menu = ({ logo = "assets/images/logos/logo.png", singleMenu }) => {
       <div className="navbar-header py-15">
         <div className="mobile-logo">
           <Link href="/">
-            <img src={logo} alt="Logo" title="Logo" />
+            <img src={logo} alt="Trasealla Solutions - Future Systems" title="Trasealla Solutions" />
           </Link>
         </div>
         {/* Toggle Button */}

@@ -20,13 +20,12 @@ const page = () => {
               >
                 <div className="section-title mb-50 rmb-30">
                   <span className="sub-title color-primary mb-10">
-                    Modern IT Solutions
+                    Future Systems
                   </span>
-                  <h2>Empowering Businesses With Advanced Tech Solutions</h2>
+                  <h2>Software & AI Solutions for Car Rental, Fleet & Travel</h2>
                 </div>
                 <p>
-                  We specialize crafting adaptable scalable software solutions
-                  evolve business needs team of experts is committed to using
+                  We specialize in crafting adaptable, scalable software solutions specifically for car rental companies, fleet operators, and travel agencies. Our team of experts is committed to using cutting-edge technology to help you grow bookings, optimize operations, and scale your business.
                 </p>
                 <Link href="/services" className="theme-btn mt-35 rmt-20">
                   Explore Services

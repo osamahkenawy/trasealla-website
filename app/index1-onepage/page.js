@@ -62,7 +62,7 @@ const page = () => {
                 data-aos-duration={1500}
                 data-aos-offset={50}
               >
-                <img src="assets/images/hero/hero.png" alt="Hero" />
+                <img src="assets/images/hero/trasealla-solutions-team.jpg" alt="trasealla-solutions-team" />
               </div>
             </div>
           </div>

@@ -59,7 +59,7 @@ const Footer1 = () => {
                     </div>
                     <div className="content">
                       Email Address <br />
-                      <a href="mailto:techinfo@gmail.com">techinfo@gmail.com</a>
+                      <a href="mailto:info@trasealla.com">info@trasealla.com</a>
                     </div>
                   </div>
                 </div>
@@ -79,13 +79,12 @@ const Footer1 = () => {
             >
               <div className="footer-logo mb-30">
                 <Link href="/">
-                  <img src="assets/images/logos/logo-white.png" alt="Logo" />
+                  <img src="assets/images/logos/logo-white.png" alt="Trasealla Solutions - Future Systems" />
                 </Link>
               </div>
               <div className="text mb-25">
                 <p>
-                  Our IT solutions are designed to empower businesses with the
-                  tools technology they need today.
+                  Trasealla Solutions – Future Systems. Software, AI & Digital Growth for Car Rental, Fleet and Travel brands.
                 </p>
               </div>
               <div className="info-item">
@@ -94,7 +93,7 @@ const Footer1 = () => {
                 </div>
                 <div className="content">
                   Need Any Help? <br />
-                  Call : <a href="callto:+000(123)4588">+000 (123) 45 88</a>
+                  Call : <a href="tel:+971522200730">+971 52 220 0730</a> / <a href="tel:+971558446048">+971 55 844 6048</a>
                 </div>
               </div>
             </div>
@@ -147,31 +146,31 @@ const Footer1 = () => {
             >
               <h5 className="footer-title">Services</h5>
               <ul>
-                <li>
-                  <Link href="service-details">
-                    <i className="far fa-angle-right" /> IT Management
-                  </Link>
-                </li>
-                <li>
-                  <Link href="service-details">
-                    <i className="far fa-angle-right" /> Cyber Security
-                  </Link>
-                </li>
-                <li>
-                  <Link href="service-details">
-                    <i className="far fa-angle-right" /> Cloud Solutions
-                  </Link>
-                </li>
-                <li>
-                  <Link href="service-details">
-                    <i className="far fa-angle-right" /> Data Backup
-                  </Link>
-                </li>
-                <li>
-                  <Link href="service-details">
-                    <i className="far fa-angle-right" /> IT Consulting
-                  </Link>
-                </li>
+                  <li>
+                    <Link href="service-details">
+                      <i className="far fa-angle-right" /> Car Rental Management
+                    </Link>
+                  </li>
+                  <li>
+                    <Link href="service-details">
+                      <i className="far fa-angle-right" /> Fleet Management
+                    </Link>
+                  </li>
+                  <li>
+                    <Link href="service-details">
+                      <i className="far fa-angle-right" /> Travel Agency Software
+                    </Link>
+                  </li>
+                  <li>
+                    <Link href="service-details">
+                      <i className="far fa-angle-right" /> AI & Automation
+                    </Link>
+                  </li>
+                  <li>
+                    <Link href="service-details">
+                      <i className="far fa-angle-right" /> Digital Marketing
+                    </Link>
+                  </li>
               </ul>
             </div>
           </div>
@@ -204,7 +203,7 @@ const Footer1 = () => {
             <div className="col-lg-6">
               <div className="copyright-text">
                 <p>
-                  Copyright © 2025 <Link href="/">Tekprof</Link>, All Rights
+                  Copyright © 2025 <Link href="/">Trasealla Solutions</Link>, All Rights
                   Reserved.
                 </p>
               </div>
@@ -288,13 +287,12 @@ const Footer2 = () => {
             >
               <div className="footer-logo mb-30">
                 <Link href="/">
-                  <img src="assets/images/logos/logo-white.png" alt="Logo" />
+                  <img src="assets/images/logos/logo-white.png" alt="Trasealla Solutions - Future Systems" />
                 </Link>
               </div>
               <div className="text mb-25">
                 <p>
-                  Our IT solutions are designed to empower businesses with the
-                  tools technology they need today.
+                  Trasealla Solutions – Future Systems. Software, AI & Digital Growth for Car Rental, Fleet and Travel brands.
                 </p>
               </div>
               <div className="info-item">
@@ -303,7 +301,7 @@ const Footer2 = () => {
                 </div>
                 <div className="content">
                   Need Any Help? <br />
-                  Call : <a href="callto:+000(123)4588">+000 (123) 45 88</a>
+                  Call : <a href="tel:+971522200730">+971 52 220 0730</a> / <a href="tel:+971558446048">+971 55 844 6048</a>
                 </div>
               </div>
             </div>
@@ -356,31 +354,31 @@ const Footer2 = () => {
             >
               <h5 className="footer-title">Services</h5>
               <ul>
-                <li>
-                  <Link href="service-details">
-                    <i className="far fa-angle-right" /> IT Management
-                  </Link>
-                </li>
-                <li>
-                  <Link href="service-details">
-                    <i className="far fa-angle-right" /> Cyber Security
-                  </Link>
-                </li>
-                <li>
-                  <Link href="service-details">
-                    <i className="far fa-angle-right" /> Cloud Solutions
-                  </Link>
-                </li>
-                <li>
-                  <Link href="service-details">
-                    <i className="far fa-angle-right" /> Data Backup
-                  </Link>
-                </li>
-                <li>
-                  <Link href="service-details">
-                    <i className="far fa-angle-right" /> IT Consulting
-                  </Link>
-                </li>
+                  <li>
+                    <Link href="service-details">
+                      <i className="far fa-angle-right" /> Car Rental Management
+                    </Link>
+                  </li>
+                  <li>
+                    <Link href="service-details">
+                      <i className="far fa-angle-right" /> Fleet Management
+                    </Link>
+                  </li>
+                  <li>
+                    <Link href="service-details">
+                      <i className="far fa-angle-right" /> Travel Agency Software
+                    </Link>
+                  </li>
+                  <li>
+                    <Link href="service-details">
+                      <i className="far fa-angle-right" /> AI & Automation
+                    </Link>
+                  </li>
+                  <li>
+                    <Link href="service-details">
+                      <i className="far fa-angle-right" /> Digital Marketing
+                    </Link>
+                  </li>
               </ul>
             </div>
           </div>
@@ -413,7 +411,7 @@ const Footer2 = () => {
             <div className="col-lg-6">
               <div className="copyright-text">
                 <p>
-                  Copyright © 2025 <Link href="/">Tekprof</Link>, All Rights
+                  Copyright © 2025 <Link href="/">Trasealla Solutions</Link>, All Rights
                   Reserved.
                 </p>
               </div>
@@ -458,14 +456,13 @@ const Footer3 = () => {
                 <Link href="/">
                   <img
                     src="assets/images/logos/logo-full-white.png"
-                    alt="Logo"
+                    alt="Trasealla Solutions - Future Systems"
                   />
                 </Link>
               </div>
               <div className="text mb-25">
                 <p>
-                  Our IT solutions are designed to empower businesses with the
-                  tools technology they need today.
+                  Trasealla Solutions – Future Systems. Software, AI & Digital Growth for Car Rental, Fleet and Travel brands.
                 </p>
               </div>
               <div className="info-item">
@@ -474,7 +471,7 @@ const Footer3 = () => {
                 </div>
                 <div className="content">
                   Need Any Help? <br />
-                  Call : <a href="callto:+000(123)4588">+000 (123) 45 88</a>
+                  Call : <a href="tel:+971522200730">+971 52 220 0730</a> / <a href="tel:+971558446048">+971 55 844 6048</a>
                 </div>
               </div>
             </div>
@@ -527,31 +524,31 @@ const Footer3 = () => {
             >
               <h5 className="footer-title">Services</h5>
               <ul>
-                <li>
-                  <Link href="service-details">
-                    <i className="far fa-angle-right" /> IT Management
-                  </Link>
-                </li>
-                <li>
-                  <Link href="service-details">
-                    <i className="far fa-angle-right" /> Cyber Security
-                  </Link>
-                </li>
-                <li>
-                  <Link href="service-details">
-                    <i className="far fa-angle-right" /> Cloud Solutions
-                  </Link>
-                </li>
-                <li>
-                  <Link href="service-details">
-                    <i className="far fa-angle-right" /> Data Backup
-                  </Link>
-                </li>
-                <li>
-                  <Link href="service-details">
-                    <i className="far fa-angle-right" /> IT Consulting
-                  </Link>
-                </li>
+                  <li>
+                    <Link href="service-details">
+                      <i className="far fa-angle-right" /> Car Rental Management
+                    </Link>
+                  </li>
+                  <li>
+                    <Link href="service-details">
+                      <i className="far fa-angle-right" /> Fleet Management
+                    </Link>
+                  </li>
+                  <li>
+                    <Link href="service-details">
+                      <i className="far fa-angle-right" /> Travel Agency Software
+                    </Link>
+                  </li>
+                  <li>
+                    <Link href="service-details">
+                      <i className="far fa-angle-right" /> AI & Automation
+                    </Link>
+                  </li>
+                  <li>
+                    <Link href="service-details">
+                      <i className="far fa-angle-right" /> Digital Marketing
+                    </Link>
+                  </li>
               </ul>
             </div>
           </div>
@@ -584,7 +581,7 @@ const Footer3 = () => {
             <div className="col-lg-6">
               <div className="copyright-text">
                 <p>
-                  Copyright © 2025 <Link href="/">Tekprof</Link>, All Rights
+                  Copyright © 2025 <Link href="/">Trasealla Solutions</Link>, All Rights
                   Reserved.
                 </p>
               </div>
@@ -685,16 +682,15 @@ const Footer4 = () => {
               <h6 className="footer-title">Contact</h6>
               <ul>
                 <li>
-                  <i className="fal fa-map-marker-alt" /> 55 Main Street, 2nd
-                  block Melbourne, Australia
+                  <i className="fal fa-map-marker-alt" /> Abu Dhabi (UAE), Alexandria (Egypt), Milan (Italy), São Paulo (Brazil)
                 </li>
                 <li>
                   <i className="fal fa-envelope" />{" "}
-                  <a href="mailto:support@gmail.com">support@gmail.com</a>
+                  <a href="mailto:info@trasealla.com">info@trasealla.com</a>
                 </li>
                 <li>
                   <i className="fal fa-phone" />{" "}
-                  <a href="callto:+0001234455">+000 (123) 44 55</a>
+                  <a href="tel:+971522200730">+971 52 220 0730</a>
                 </li>
               </ul>
             </div>
@@ -789,7 +785,7 @@ const Footer4 = () => {
                 data-aos-offset={50}
               >
                 <p>
-                  Copyright @2025 <Link href="/">Tekprof </Link> All Rights
+                  Copyright @2025 <Link href="/">Trasealla Solutions </Link> All Rights
                   Reserved
                 </p>
               </div>
@@ -856,7 +852,7 @@ const Footer5 = () => {
               <p>Get in touch with our team</p>
               <div className="section-title">
                 <h2>
-                  <a href="mailto:support@gmail.com">support@gmail.com</a>
+                  <a href="mailto:info@trasealla.com">info@trasealla.com</a>
                 </h2>
               </div>
               <div className="social-style-two mt-10">
@@ -891,7 +887,7 @@ const Footer5 = () => {
             <div className="col-md-9 text-center text-lg-end">
               <div className="copyright-text text-center text-md-end">
                 <p>
-                  Copyright © <Link href="/">Tekprof</Link>, all rights
+                  Copyright © <Link href="/">Trasealla Solutions</Link>, all rights
                   reserved.
                 </p>
               </div>
@@ -933,7 +929,7 @@ const Footer6 = () => {
               <div className="content">
                 <span>Hotline</span>
                 <br />
-                <a href="callto:+000(123)45688">+000 (123) 456 88</a>
+                <a href="tel:+971522200730">+971 52 220 0730</a>
               </div>
             </div>
           </div>
@@ -947,7 +943,7 @@ const Footer6 = () => {
                 <Link href="/">
                   <img
                     src="assets/images/logos/logo-full-white.png"
-                    alt="Logo"
+                    alt="Trasealla Solutions - Future Systems"
                   />
                 </Link>
               </div>
@@ -1110,7 +1106,7 @@ const Footer6 = () => {
             </div>
             <div className="col-lg-4">
               <div className="copyright-text text-lg-end wow fadeInLeft delay-0-2s">
-                <p>© 2025 Tekprof. All rights reserved.</p>
+                <p>© 2025 Trasealla Solutions. All rights reserved.</p>
               </div>
             </div>
           </div>

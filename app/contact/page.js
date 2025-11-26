@@ -16,12 +16,10 @@ const page = () => {
               >
                 <div className="section-title mb-40">
                   <span className="sub-title mb-10">Get In Touch</span>
-                  <h2>Ready to Transform? Get in Touch</h2>
+                  <h2>Let's Build Your Next System</h2>
                 </div>
                 <p>
-                  Each of these titles is designed to be approachable and
-                  encourage clients to take the first step in reaching
-                  adjustments
+                  Ready to transform your car rental, fleet, or travel operations? Talk to Trasealla Solutions. We'll help you choose the right software, AI automation, or digital marketing solution for your business.
                 </p>
                 <div className="contact-info-wrap mt-40">
                   <div className="contact-info-item">
@@ -29,8 +27,8 @@ const page = () => {
                       <i className="far fa-map-marker-alt" />
                     </div>
                     <div className="text">
-                      <span className="title">Office Location</span>
-                      <p>101 Fifth Avenue, 12th Floor New York, NY 10003</p>
+                      <span className="title">Our Offices</span>
+                      <p>Abu Dhabi (UAE) · Alexandria (Egypt) · Milan (Italy) · São Paulo (Brazil)</p>
                     </div>
                   </div>
                   <div className="contact-info-item">
@@ -39,9 +37,7 @@ const page = () => {
                     </div>
                     <div className="text">
                       <span className="title">Email Address</span>
-                      <a href="mailto:support@gmail.com">support@gmail.com</a>
-                      <br />
-                      <a href="mailto:uintechservice.com">uintechservice.com</a>
+                      <a href="mailto:info@trasealla.com">info@trasealla.com</a>
                     </div>
                   </div>
                   <div className="contact-info-item">
@@ -49,10 +45,14 @@ const page = () => {
                       <i className="far fa-phone-volume" />
                     </div>
                     <div className="text">
-                      <span className="title">Need Any Help</span>
-                      <a href="callto:+000(123)45688">
-                        +000 (123) 456 88
-                      </a>, <a href="callto:+88500099">+885 000 99</a>
+                      <span className="title">Phone / WhatsApp</span>
+                      <a href="tel:+971522200730">
+                        +971 52 220 0730
+                      </a>
+                      <br />
+                      <a href="tel:+971558446048">
+                        +971 55 844 6048
+                      </a>
                     </div>
                   </div>
                 </div>
@@ -73,7 +73,7 @@ const page = () => {
                   method="post"
                 >
                   <h4>What can we help you with?</h4>
-                  <p>Your email address will not be published*</p>
+                  <p>Tell us about your car rental, fleet, or travel business needs*</p>
                   <div className="row mt-20">
                     <div className="col-sm-12">
                       <div className="form-group mb-15">

@@ -8,7 +8,7 @@ const page = () => {
           <div
             className="banner-wrap bgs-cover py-80"
             style={{
-              backgroundImage: "url(assets/images/background/banner-bg.jpg)",
+              backgroundImage: "url(assets/images/hero/banner-bg-contact.jpg",
             }}
           >
             <div className="container">

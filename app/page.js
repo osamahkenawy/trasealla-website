@@ -33,15 +33,13 @@ const page = () => {
                 data-aos-duration={1500}
                 data-aos-offset={50}
               >
-                <span className="sub-title mb-15">Modern IT Solutions</span>
-                <h1>Empowering Businesses with IT Solutions</h1>
+                <span className="sub-title mb-15">Future Systems</span>
+                <h1>Software That Moves Your Business</h1>
                 <p>
-                  An IT solution agency is your trusted partner in navigating
-                  complexities landscape wide range of services such as
-                  software.
+                  Trasealla Solutions builds smart software platforms, AI automations, and digital marketing solutions that help car rental companies, fleet businesses, and travel agencies grow bookings, optimize operations, and scale.
                 </p>
                 <Link href="services" className="theme-btn mt-15">
-                  Explore UinTech IT Services
+                  Explore Our Solutions
                 </Link>
               </div>
             </div>
@@ -52,7 +50,7 @@ const page = () => {
                 data-aos-duration={1500}
                 data-aos-offset={50}
               >
-                <img src="assets/images/hero/hero.png" alt="Hero" />
+                <img src="assets/images/hero/trasealla-solutions-team.jpg" alt="trasealla-solutions-team" />
               </div>
             </div>
           </div>
@@ -71,18 +69,15 @@ const page = () => {
                 data-aos-offset={50}
               >
                 <span className="sub-title color-primary mb-10">
-                  Modern IT Solutions
+                  Future Systems
                 </span>
                 <h2>
-                  Transforming Challenges Into Opportunities with Smart IT
-                  Solutions
+                  AI-Powered Fleet Management & Automation for Smarter Operations
                 </h2>
                 <div className="row justify-content-center">
                   <div className="col-lg-10">
                     <p>
-                      IT solutions integrate cutting-edge technologies with
-                      strategic planning to optimize processes and deliver
-                      measurable results partnering with IT experts.
+                      Transform your fleet operations with AI-driven automation and real-time telematics. Our intelligent platforms optimize routes, predict maintenance, automate dispatching, and maximize vehicle utilization—turning fleet data into actionable insights that reduce costs and boost efficiency.
                     </p>
                   </div>
                 </div>
@@ -106,11 +101,10 @@ const page = () => {
                 </div>
                 <div className="content">
                   <h4 className="title">
-                    <Link href="service-details">IT Solutions</Link>
+                    <Link href="service-details">Car Rental Management</Link>
                   </h4>
                   <p>
-                    IT solutions encompass a broad range of services and
-                    technologies.
+                    Complete booking, fleet, and operations platform for car rental companies. Streamline reservations, automate workflows, and boost revenue.
                   </p>
                   <div className="inner-content">
                     <Link className="read-more" href="service-details">
@@ -126,21 +120,20 @@ const page = () => {
               data-aos-delay={200}
               data-aos-duration={1500}
               data-aos-offset={50}
-            >
+            > 
               <div className="feature-item hover-content">
                 <div className="image">
                   <img
-                    src="assets/images/features/feature2.jpg"
-                    alt="Feature"
+                    src="assets/images/hero/livemap-1-fleet.png"
+                    alt="Trasealla Solutions Fleet Management & Telematics"
                   />
                 </div>
                 <div className="content">
                   <h4 className="title">
-                    <Link href="service-details">Cyber Security</Link>
+                    <Link href="service-details">Fleet Management & Telematics</Link>
                   </h4>
                   <p>
-                    Cybersecurity is the practice of protecting systems
-                    networks.
+                    Real-time fleet tracking, telematics integration, and route optimization. Control your vehicles, reduce costs, and improve utilization.
                   </p>
                   <div className="inner-content">
                     <Link className="read-more" href="service-details">
@@ -166,10 +159,10 @@ const page = () => {
                 </div>
                 <div className="content">
                   <h4 className="title">
-                    <Link href="service-details">Cloud Services</Link>
+                    <Link href="service-details">Travel Agency Software</Link>
                   </h4>
                   <p>
-                    Cloud services are on-demand computing resources delivered.
+                    Booking engines, CRM, and automation tools for travel agencies and tour operators. Increase conversions and manage operations efficiently.
                   </p>
                   <div className="inner-content">
                     <Link className="read-more" href="service-details">
@@ -197,12 +190,11 @@ const page = () => {
                 <div className="section-title mb-25">
                   <span className="sub-title mb-10">Why Choose Us</span>
                   <h2>
-                    Solutions Beyond Technology – Success Beyond Boundaries
+                    Industry-Focused Solutions – Built for Car Rental, Fleet & Travel
                   </h2>
                 </div>
                 <p>
-                  Trust us to be your partner in digital transformation,
-                  providing the technology and support.
+                  We specialize in mobility and travel technology. Our platforms are built specifically for car rental companies, fleet operators, and travel agencies – not generic software.
                 </p>
                 <Link href="about" className="theme-btn mt-20 mb-50">
                   Learn More About Us
@@ -295,9 +287,9 @@ const page = () => {
                 data-aos-offset={50}
               >
                 <span className="sub-title color-primary mb-10">
-                  Modern IT Solutions
+                  Future Systems
                 </span>
-                <h2>Empowering Businesses With Advanced IT Solutions</h2>
+                <h2>Software & AI Solutions for Car Rental, Fleet & Travel</h2>
               </div>
             </div>
           </div>
@@ -319,14 +311,12 @@ const page = () => {
                 <div className="content">
                   <h4 className="title">
                     <Link href="service-details">
-                      <i className="flaticon-it" /> Managed IT Services
+                      <i className="flaticon-it" /> Car Rental Management System
                     </Link>
                   </h4>
                   <div className="inner-content">
                     <p>
-                      Comprehensive support for all aspects of your IT
-                      infrastructure, including monitoring, maintenance, and
-                      technical support.
+                      Complete platform for managing bookings, fleet, pricing, and operations. Increase bookings, automate workflows, and optimize revenue with real-time dashboards.
                     </p>
                     <Link className="read-more" href="service-details">
                       Read More <i className="far fa-arrow-right" />
@@ -352,15 +342,12 @@ const page = () => {
                 <div className="content">
                   <h4 className="title">
                     <Link href="service-details">
-                      <i className="flaticon-network-security" /> Cybersecurity
-                      Services
+                      <i className="flaticon-network-security" /> Fleet Management & Telematics
                     </Link>
                   </h4>
                   <div className="inner-content">
                     <p>
-                      Comprehensive support for all aspects of your IT
-                      infrastructure, including monitoring, maintenance, and
-                      technical support.
+                      Real-time fleet tracking, GPS integration, route optimization, and vehicle analytics. Reduce costs, improve utilization, and maintain full visibility of your fleet.
                     </p>
                     <Link className="read-more" href="service-details">
                       Read More <i className="far fa-arrow-right" />
@@ -386,14 +373,12 @@ const page = () => {
                 <div className="content">
                   <h4 className="title">
                     <Link href="service-details">
-                      <i className="flaticon-cloud" /> Cloud Solutions
+                      <i className="flaticon-cloud" /> Travel Agency Booking System
                     </Link>
                   </h4>
                   <div className="inner-content">
                     <p>
-                      Comprehensive support for all aspects of your IT
-                      infrastructure, including monitoring, maintenance, and
-                      technical support.
+                      Powerful booking engine, CRM, and automation tools for travel agencies. Manage tours, packages, and customer relationships with integrated workflows.
                     </p>
                     <Link className="read-more" href="service-details">
                       Read More <i className="far fa-arrow-right" />
@@ -419,15 +404,12 @@ const page = () => {
                 <div className="content">
                   <h4 className="title">
                     <Link href="service-details">
-                      <i className="flaticon-data-management" /> Data Backup
-                      &amp; Recovery
+                      <i className="flaticon-data-management" /> ERP & AI Automation
                     </Link>
                   </h4>
                   <div className="inner-content">
                     <p>
-                      Comprehensive support for all aspects of your IT
-                      infrastructure, including monitoring, maintenance, and
-                      technical support.
+                      Custom ERP systems, AI chatbots, workflow automation, and predictive analytics. Automate bookings, invoices, reminders, and optimize pricing with AI.
                     </p>
                     <Link className="read-more" href="service-details">
                       Read More <i className="far fa-arrow-right" />
@@ -457,15 +439,14 @@ const page = () => {
                 data-aos-offset={50}
               >
                 <div className="section-title mb-30">
-                  <span className="sub-title mb-10">Great Achievement</span>
-                  <h2>Modern Design Agency Blueprint Innovation</h2>
+                  <span className="sub-title mb-10">Future Systems</span>
+                  <h2>Building the Future of Mobility & Travel Technology</h2>
                 </div>
                 <p>
-                  We empower businesses to thrive in the digital system with
-                  best innovative IT solutions.
+                  We help car rental, fleet, and travel businesses grow bookings, optimize operations, and scale with smart software, AI automation, and digital marketing.
                 </p>
-                <Link href="about" className="theme-btn mt-20">
-                  Get Consultation
+                <Link href="contact" className="theme-btn mt-20">
+                  Book a Demo
                 </Link>
               </div>
             </div>
@@ -729,7 +710,7 @@ const page = () => {
                 <span className="sub-title color-primary mb-10">
                   News &amp; Blog
                 </span>
-                <h2>Latest Insight &amp; Articles</h2>
+                <h2>Latest Insights on Car Rental, Fleet & Travel Technology</h2>
               </div>
             </div>
           </div>
@@ -748,7 +729,7 @@ const page = () => {
                 <div className="content">
                   <ul className="blog-meta">
                     <li>
-                      <a href="#">IT Solutions</a>
+                      <a href="#">Car Rental Software</a>
                     </li>
                     <li>
                       <a href="#">25 December 2024</a>
@@ -756,14 +737,12 @@ const page = () => {
                   </ul>
                   <h4 className="title">
                     <Link href="blog-details">
-                      Cybersecurity Essentials Protecting Business from Emerging
-                      Threats
+                      How AI Automation Transforms Car Rental Operations
                     </Link>
                   </h4>
                   <div className="inner-content">
                     <p>
-                      Highlights clear problem-solution-result narrative,
-                      demonstrating agency’s ability to provide.
+                      Discover how smart automation reduces manual work, increases bookings, and optimizes fleet utilization for car rental companies.
                     </p>
                     <Link className="theme-btn btn-small" href="blog-details">
                       Read More
@@ -786,7 +765,7 @@ const page = () => {
                 <div className="content">
                   <ul className="blog-meta">
                     <li>
-                      <Link href="blog">IT Solutions</Link>
+                      <Link href="blog">Fleet Management</Link>
                     </li>
                     <li>
                       <Link href="blog">25 December 2024</Link>
@@ -794,14 +773,12 @@ const page = () => {
                   </ul>
                   <h4 className="title">
                     <Link href="blog-details">
-                      The Ultimate Guide to Choosing the Right IT Solutions
-                      Partner
+                      Real-Time Fleet Tracking: Complete Guide for Transportation Businesses
                     </Link>
                   </h4>
                   <div className="inner-content">
                     <p>
-                      Highlights clear problem-solution-result narrative,
-                      demonstrating agency’s ability to provide.
+                      Learn how telematics and real-time tracking help fleet operators reduce costs, improve safety, and maximize vehicle utilization.
                     </p>
                     <Link className="theme-btn btn-small" href="blog-details">
                       Read More
@@ -824,7 +801,7 @@ const page = () => {
                 <div className="content">
                   <ul className="blog-meta">
                     <li>
-                      <Link href="blog">IT Solutions</Link>
+                      <Link href="blog">Travel Technology</Link>
                     </li>
                     <li>
                       <Link href="blog">25 December 2024</Link>
@@ -832,13 +809,12 @@ const page = () => {
                   </ul>
                   <h4 className="title">
                     <Link href="blog-details">
-                      The Importance of Data Backup and Disaster Recovery Plans"
+                      Digital Marketing & SEO Strategies for Travel Agencies
                     </Link>
                   </h4>
                   <div className="inner-content">
                     <p>
-                      Highlights clear problem-solution-result narrative,
-                      demonstrating agency’s ability to provide.
+                      Explore how SEO, content marketing, and conversion optimization help travel agencies attract more bookings and grow revenue.
                     </p>
                     <Link className="theme-btn btn-small" href="blog-details">
                       Read More

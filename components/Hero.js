@@ -18,21 +18,21 @@ const Hero = () => {
         >
           <div className="slider-item">
             <div className="slide-content text-white">
-              <span className="sub-title">IT Solution Comapny</span>
-              <span className="h2">We’re Digital</span>
-              <h1>IT Services Agency</h1>
-              <Link href="about" className="theme-btn">
-                Let’s Get Started <i className="fas fa-long-arrow-right" />
+              <span className="sub-title">Future Systems</span>
+              <span className="h2">Trasealla Solutions</span>
+              <h1>Software That Moves Your Business</h1>
+              <Link href="contact" className="theme-btn">
+                Book a Demo <i className="fas fa-long-arrow-right" />
               </Link>
             </div>
           </div>
           <div className="slider-item">
             <div className="slide-content text-white">
-              <span className="sub-title">IT Solution Comapny</span>
-              <span className="h2">We’re Digital</span>
-              <h1>IT Services Agency</h1>
-              <Link href="about" className="theme-btn">
-                Let’s Get Started <i className="fas fa-long-arrow-right" />
+              <span className="sub-title">Future Systems</span>
+              <span className="h2">Trasealla Solutions</span>
+              <h1>Software That Moves Your Business</h1>
+              <Link href="contact" className="theme-btn">
+                Book a Demo <i className="fas fa-long-arrow-right" />
               </Link>
             </div>
           </div>

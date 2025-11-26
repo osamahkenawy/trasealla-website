@@ -21,12 +21,10 @@ const page = () => {
                   data-aos-offset={50}
                 >
                   <span className="sub-title color-primary mb-10">
-                    About Company
+                    About Trasealla Solutions
                   </span>
                   <h2>
-                    Building Future-Ready Solutions for Today’s Challenges
-                    Shaping the Future of Business Through Digital
-                    Transformation
+                    Future Systems – Software That Moves Your Business
                   </h2>
                 </div>
                 <div className="row gap-70">
@@ -38,10 +36,7 @@ const page = () => {
                     data-aos-offset={50}
                   >
                     <p>
-                      We are dedicated to transforming businesses through
-                      innovative, tailored software solutions With a team
-                      skilled professionals commitment cutting-edge technology a
-                      specialize creating scalable, user-friendly software.
+                      Trasealla Solutions builds smart software platforms, AI automations, and digital marketing solutions specifically for car rental companies, fleet & transportation businesses, and travel agencies. Founded by Osamah Alaaeldin Kenawy, we combine software products, AI & automation, and digital marketing to help clients grow bookings, optimize operations, and scale.
                     </p>
                   </div>
                   <div
@@ -52,9 +47,7 @@ const page = () => {
                     data-aos-offset={50}
                   >
                     <p>
-                      From custom development and cloud solutions to
-                      cybersecurity and data analytics, our services empower
-                      organizations to streamline.
+                      With offices in Abu Dhabi (UAE), Alexandria (Egypt), Milan (Italy), and São Paulo (Brazil), we serve mobility and travel businesses globally. Our vision is "Future Systems" – automation and technology that transforms how car rental, fleet, and travel companies operate.
                     </p>
                   </div>
                 </div>
@@ -145,20 +138,10 @@ const page = () => {
                 data-aos-offset={50}
               >
                 <div className="section-title mb-30">
-                  <h2>Experience Excellence with Our Uintech</h2>
+                  <h2>Experience Excellence with Trasealla Solutions</h2>
                 </div>
                 <p>
-                  At Company Name, excellence is at the core of everything we
-                  do. Our team dedicated professionals combines deep industry
-                  expertise with a passion for innovation to deliver
-                  high-quality, tailored software solutions that drive results.
-                  We pride ourselves meticulous attention to detail, our
-                  commitment to client satisfaction, and our ability to turn
-                  complex challenges into impactful outcomes. When you partner
-                  with us, you’re not just getting a service provider—you’re
-                  gaining a trusted committed to helping your business succeed.
-                  Discover what true excellence means with Company Name by your
-                  side.
+                  At Trasealla Solutions, excellence is at the core of everything we do. Our team of dedicated professionals combines deep industry expertise in car rental, fleet management, and travel technology with a passion for innovation to deliver high-quality, tailored software solutions that drive real results. We pride ourselves on meticulous attention to detail, our commitment to client satisfaction, and our ability to turn complex operational challenges into simple, automated workflows. When you partner with us, you're not just getting a service provider—you're gaining a trusted partner committed to helping your car rental, fleet, or travel business succeed. Discover what true excellence means with Trasealla Solutions by your side.
                 </p>
               </div>
             </div>
@@ -202,7 +185,7 @@ const page = () => {
                 <span className="sub-title color-primary mb-10">
                   Why Choose Us
                 </span>
-                <h2>Empowering Businesses With Advanced IT Solutions</h2>
+                <h2>Industry-Focused Solutions for Car Rental, Fleet & Travel</h2>
               </div>
             </div>
           </div>
