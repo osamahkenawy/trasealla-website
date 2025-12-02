@@ -15,7 +15,7 @@ const TekprofLayout = ({
     "--tekprof-base-font": "'Inter', serif",
     "--tekprof-heading-font": "'Hanken Grotesk', serif",
     "--tekprof-primary-color": "#FC5546",
-    "--tekprof-heading-color": "#020626",
+    "--tekprof-heading-color": "#244066",
     "--tekprof-blue-color": "#021433",
     "--tekprof-gray-color": "#FAF8F6",
   },

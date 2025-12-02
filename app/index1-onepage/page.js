@@ -22,7 +22,7 @@ const page = () => {
       footer={1}
       rootElements={{
         "--tekprof-primary-color": "#FC5546",
-        "--tekprof-heading-color": "#020626",
+        "--tekprof-heading-color": "#244066",
         "--tekprof-gray-color": "#FAF8F6",
       }}
       singleMenu={singlePage}

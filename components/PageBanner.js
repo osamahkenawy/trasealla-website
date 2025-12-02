@@ -7,9 +7,9 @@ const PageBanner = ({ title, pageName = "About Company" }) => {
         <div
           className="banner-wrap bgs-cover py-80"
           style={{
-            backgroundImage: "url(assets/images/hero/banner-bg-contact.jpg)",
+            backgroundImage: "url(assets/images/hero/TRASEALLA.svg)",
           }}
-        >
+        > 
           <div className="container">
             <div className="banner-inner">
               <h1

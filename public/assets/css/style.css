@@ -9381,7 +9381,7 @@ blockquote {
     content: '';
     width: 50px;
     height: 2px;
-    background: #020626; }
+    background: #244066; }
 
 .widget-search form {
   display: -webkit-box;
@@ -9510,10 +9510,10 @@ blockquote {
     height: 100%;
     content: '';
     z-index: -1;
-    background: -webkit-gradient(linear, left top, left bottom, from(rgba(2, 6, 38, 0)), to(#020626));
-    background: -webkit-linear-gradient(top, rgba(2, 6, 38, 0) 0%, #020626 100%);
-    background: -o-linear-gradient(top, rgba(2, 6, 38, 0) 0%, #020626 100%);
-    background: linear-gradient(180deg, rgba(2, 6, 38, 0) 0%, #020626 100%); }
+    background: -webkit-gradient(linear, left top, left bottom, from(rgba(2, 6, 38, 0)), to(#244066));
+    background: -webkit-linear-gradient(top, rgba(2, 6, 38, 0) 0%, #244066 100%);
+    background: -o-linear-gradient(top, rgba(2, 6, 38, 0) 0%, #244066 100%);
+    background: linear-gradient(180deg, rgba(2, 6, 38, 0) 0%, #244066 100%); }
   .widget-cta h3 {
     color: white;
     font-size: 30px;

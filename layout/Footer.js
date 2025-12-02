@@ -93,7 +93,7 @@ const Footer1 = () => {
                 </div>
                 <div className="content">
                   Need Any Help? <br />
-                  Call : <a href="tel:+971522200730">+971 52 220 0730</a> / <a href="tel:+971558446048">+971 55 844 6048</a>
+                  Call :  <a href="tel:+971558446048">+971 55 844 6048</a>
                 </div>
               </div>
             </div>
@@ -301,7 +301,7 @@ const Footer2 = () => {
                 </div>
                 <div className="content">
                   Need Any Help? <br />
-                  Call : <a href="tel:+971522200730">+971 52 220 0730</a> / <a href="tel:+971558446048">+971 55 844 6048</a>
+                  Call : <a href="tel:+971558446048">+971 55 844 6048</a>
                 </div>
               </div>
             </div>
@@ -471,7 +471,7 @@ const Footer3 = () => {
                 </div>
                 <div className="content">
                   Need Any Help? <br />
-                  Call : <a href="tel:+971522200730">+971 52 220 0730</a> / <a href="tel:+971558446048">+971 55 844 6048</a>
+                  Call : / <a href="tel:+971558446048">+971 55 844 6048</a>
                 </div>
               </div>
             </div>

@@ -34,7 +34,7 @@ const Header1 = ({ singleMenu }) => {
                 <ul>
                   <li>
                     <i className="far fa-phone" /> Need any help? Call :{" "}
-                    <a href="tel:+971522200730">+971 52 220 0730</a> / <a href="tel:+971558446048">+971 55 844 6048</a>
+                    <a href="tel:+971558446048">+971 55 844 6048</a>
                   </li>
                 </ul>
               </div>
@@ -79,7 +79,7 @@ const Header1 = ({ singleMenu }) => {
               <div className="logo">
                 <Link href="/">
                     <img
-                    src="assets/images/logos/logo.png"
+                    src="assets/images/logos/TRASEALLA_LOGO.svg"
                     alt="Trasealla Solutions - Future Systems"
                     title="Trasealla Solutions"
                   />
@@ -122,7 +122,7 @@ const Header2 = ({ singleMenu }) => {
                 <ul>
                   <li>
                     <i className="far fa-phone" /> Need any help? Call :{" "}
-                    <a href="tel:+971522200730">+971 52 220 0730</a> / <a href="tel:+971558446048">+971 55 844 6048</a>
+                    <a href="tel:+971558446048">+971 55 844 6048</a>
                   </li>
                 </ul>
               </div>
@@ -167,7 +167,7 @@ const Header2 = ({ singleMenu }) => {
               <div className="logo">
                 <Link href="/">
                     <img
-                    src="assets/images/logos/logo.png"
+                    src="assets/images/logos/TRASEALLA_LOGO.svg"
                     alt="Trasealla Solutions - Future Systems"
                     title="Trasealla Solutions"
                   />
@@ -470,7 +470,7 @@ const Header6 = ({ singleMenu }) => {
   );
 };
 
-const Menu = ({ logo = "assets/images/logos/logo.png", singleMenu }) => {
+const Menu = ({ logo = "assets/images/logos/TRASEALLA_LOGO.svg", singleMenu }) => {
   return (
     <Accordion>
       <div className="navbar-header py-15">

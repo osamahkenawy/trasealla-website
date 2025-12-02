@@ -14,7 +14,7 @@ const page = () => {
       footer={1}
       rootElements={{
         "--tekprof-primary-color": "#FC5546",
-        "--tekprof-heading-color": "#020626",
+        "--tekprof-heading-color": "#244066",
         "--tekprof-gray-color": "#FAF8F6",
       }}
     >
@@ -34,12 +34,12 @@ const page = () => {
                 data-aos-offset={50}
               >
                 <span className="sub-title mb-15">Future Systems</span>
-                <h1>Software That Moves Your Business</h1>
+                <h2>Smart Automation. Real Results. Fast Growth.</h2>
                 <p>
-                  Trasealla Solutions builds smart software platforms, AI automations, and digital marketing solutions that help car rental companies, fleet businesses, and travel agencies grow bookings, optimize operations, and scale.
+                  Stop losing bookings to competitors. Our intelligent platforms automate everything—from reservations to fleet tracking to customer service. Join car rental companies, fleet operators, and travel agencies already seeing 40% more revenue and 70% less manual work.
                 </p>
                 <Link href="services" className="theme-btn mt-15">
-                  Explore Our Solutions
+                  Start Growing Today
                 </Link>
               </div>
             </div>
@@ -50,7 +50,7 @@ const page = () => {
                 data-aos-duration={1500}
                 data-aos-offset={50}
               >
-                <img src="assets/images/hero/trasealla-solutions-team.jpg" alt="trasealla-solutions-team" />
+                <img src="assets/images/hero/trasealla-solutions-ai.jpg" alt="trasealla-solutions-team" />
               </div>
             </div>
           </div>
@@ -86,7 +86,7 @@ const page = () => {
           </div>
           <div className="row justify-content-center">
             <div
-              className="col-xl-4 col-md-6"
+              className="col-xl-6 col-md-6"
               data-aos="fade-up"
               data-aos-delay={100}
               data-aos-duration={1500}
@@ -95,7 +95,7 @@ const page = () => {
               <div className="feature-item hover-content">
                 <div className="image">
                   <img
-                    src="assets/images/features/feature1.jpg"
+                    src="assets/images/projects/trasealla-car-rental.png"
                     alt="Feature"
                   />
                 </div>
@@ -115,7 +115,7 @@ const page = () => {
               </div>
             </div>
             <div
-              className="col-xl-4 col-md-6"
+              className="col-xl-6 col-md-6"
               data-aos="fade-up"
               data-aos-delay={200}
               data-aos-duration={1500}
@@ -124,7 +124,7 @@ const page = () => {
               <div className="feature-item hover-content">
                 <div className="image">
                   <img
-                    src="assets/images/hero/livemap-1-fleet.png"
+                    src="assets/images/projects/livemap-1-fleet.png"
                     alt="Trasealla Solutions Fleet Management & Telematics"
                   />
                 </div>
@@ -144,7 +144,7 @@ const page = () => {
               </div>
             </div>
             <div
-              className="col-xl-4 col-md-6"
+              className="col-xl-6 col-md-6"
               data-aos="fade-up"
               data-aos-delay={300}
               data-aos-duration={1500}
@@ -153,8 +153,8 @@ const page = () => {
               <div className="feature-item hover-content">
                 <div className="image">
                   <img
-                    src="assets/images/features/feature3.jpg"
-                    alt="Feature"
+                    src="assets/images/projects/trasealla-travels.png"
+                    alt="Trasealla Travels"
                   />
                 </div>
                 <div className="content">
@@ -163,6 +163,35 @@ const page = () => {
                   </h4>
                   <p>
                     Booking engines, CRM, and automation tools for travel agencies and tour operators. Increase conversions and manage operations efficiently.
+                  </p>
+                  <div className="inner-content">
+                    <Link className="read-more" href="service-details">
+                      Read More <i className="far fa-arrow-right" />
+                    </Link>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              className="col-xl-6 col-md-6"
+              data-aos="fade-up"
+              data-aos-delay={400}
+              data-aos-duration={1500}
+              data-aos-offset={50}
+            >
+              <div className="feature-item hover-content">
+                <div className="image">
+                  <img
+                    src="assets/images/projects/car -service-provider.png"
+                    alt="Car Service Provider System"
+                  />
+                </div>
+                <div className="content">
+                  <h4 className="title">
+                    <Link href="service-details">Car Service Provider System</Link>
+                  </h4>
+                  <p>
+                    Comprehensive platform for automotive service centers. Manage appointments, track repairs, handle customer records, and streamline service operations with automated workflows.
                   </p>
                   <div className="inner-content">
                     <Link className="read-more" href="service-details">
@@ -190,11 +219,11 @@ const page = () => {
                 <div className="section-title mb-25">
                   <span className="sub-title mb-10">Why Choose Us</span>
                   <h2>
-                    Industry-Focused Solutions – Built for Car Rental, Fleet & Travel
+                    Transform Your Business with AI-Powered Software Built for Your Industry
                   </h2>
                 </div>
                 <p>
-                  We specialize in mobility and travel technology. Our platforms are built specifically for car rental companies, fleet operators, and travel agencies – not generic software.
+                  Stop using generic software that doesn't fit. Our intelligent platforms are purpose-built for car rental companies, fleet operators, travel agencies, and service centers. Boost bookings, slash operational costs, and scale faster with automation that actually works.
                 </p>
                 <Link href="about" className="theme-btn mt-20 mb-50">
                   Learn More About Us
@@ -211,11 +240,10 @@ const page = () => {
                         <i className="flaticon-experts" />
                       </div>
                       <h5>
-                        <Link href="service-details">Dedicated Team</Link>
+                        <Link href="service-details">AI-Driven Automation</Link>
                       </h5>
                       <p>
-                        This allowing scale resources as needed while
-                        maintaining full control your project.
+                        Smart workflows that reduce manual work by 70%. From automated bookings to predictive maintenance, our AI handles the heavy lifting so you can focus on growth.
                       </p>
                     </div>
                   </div>
@@ -225,11 +253,10 @@ const page = () => {
                         <i className="flaticon-loyal-customer" />
                       </div>
                       <h5>
-                        <Link href="service-details">Clients Satisfaction</Link>
+                        <Link href="service-details">Real-Time Insights</Link>
                       </h5>
                       <p>
-                        From quality design and timely delivery post-project
-                        support focus is on building lasting
+                        Make data-driven decisions with live dashboards showing bookings, fleet utilization, and revenue trends. See what's working and what needs attention—instantly.
                       </p>
                     </div>
                   </div>
