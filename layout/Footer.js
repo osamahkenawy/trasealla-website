@@ -27,7 +27,7 @@ const Footer1 = () => {
           className="footer-top pt-70 pb-40 rpt-60 px-4 bgs-cover"
           style={{
             backgroundImage:
-              "url(assets/images/background/get-consultation-bg.jpg)",
+              "url(/assets/images/background/get-consultation-bg.jpg)",
           }}
         >
           <div className="container">
@@ -79,7 +79,7 @@ const Footer1 = () => {
             >
               <div className="footer-logo mb-30">
                 <Link href="/">
-                  <img src="assets/images/logos/logo-white.png" alt="Trasealla Solutions - Future Systems" />
+                  <img src="/assets/images/logos/logo-white.png" alt="Trasealla Solutions - Future Systems" />
                 </Link>
               </div>
               <div className="text mb-25">
@@ -287,7 +287,7 @@ const Footer2 = () => {
             >
               <div className="footer-logo mb-30">
                 <Link href="/">
-                  <img src="assets/images/logos/logo-white.png" alt="Trasealla Solutions - Future Systems" />
+                  <img src="/assets/images/logos/logo-white.png" alt="Trasealla Solutions - Future Systems" />
                 </Link>
               </div>
               <div className="text mb-25">
@@ -455,7 +455,7 @@ const Footer3 = () => {
               <div className="footer-logo mb-30">
                 <Link href="/">
                   <img
-                    src="assets/images/logos/logo-full-white.png"
+                    src="/assets/images/logos/logo-full-white.png"
                     alt="Trasealla Solutions - Future Systems"
                   />
                 </Link>
@@ -825,7 +825,7 @@ const Footer5 = () => {
     <footer
       className="main-footer style-two bgc-black text-white bgp-bottom pt-250 rel z-1"
       style={{
-        backgroundImage: "url(assets/images/background/footer-two.png)",
+        backgroundImage: "url(/assets/images/background/footer-two.png)",
       }}
     >
       <div className="container container-1290 pb-50">
@@ -911,7 +911,7 @@ const Footer6 = () => {
           <div
             className="footer-cta-inner bgs-cover"
             style={{
-              backgroundImage: "url(assets/images/footer/footer-cta-bg.jpg)",
+              backgroundImage: "url(/assets/images/footer/footer-cta-bg.jpg)",
             }}
           >
             <div className="section-title wow fadeInLeft delay-0-2s">
@@ -942,7 +942,7 @@ const Footer6 = () => {
               <div className="footer-square-logo mb-30">
                 <Link href="/">
                   <img
-                    src="assets/images/logos/logo-full-white.png"
+                    src="/assets/images/logos/logo-full-white.png"
                     alt="Trasealla Solutions - Future Systems"
                   />
                 </Link>
@@ -1115,17 +1115,17 @@ const Footer6 = () => {
       <div className="footer-shapes">
         <img
           className="shape one"
-          src="assets/images/footer/footer-bg-weve-shape.png"
+          src="/assets/images/footer/footer-bg-weve-shape.png"
           alt="Shape"
         />
         <img
           className="shape two"
-          src="assets/images/footer/footer-bg-line-shape.png"
+          src="/assets/images/footer/footer-bg-line-shape.png"
           alt="Shape"
         />
         <img
           className="shape three wow fadeInRight delay-0-8s"
-          src="assets/images/footer/footer-right.png"
+          src="/assets/images/footer/footer-right.png"
           alt="Shape"
         />
       </div>

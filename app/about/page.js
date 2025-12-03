@@ -6,7 +6,7 @@ import { Testimonials2 } from "@/components/testimonials/Testimonials2";
 import TekprofLayout from "@/layout/TekprofLayout";
 const page = () => {
   return (
-    <TekprofLayout>
+    <TekprofLayout header={1} footer={1}>
       <PageBanner pageName="About Company" />
       {/* About Page About Area Start */}
       <section className="about-page-about-area pt-130 rpt-100 pb-110 rpb-80">

@@ -79,9 +79,10 @@ const Header1 = ({ singleMenu }) => {
               <div className="logo">
                 <Link href="/">
                     <img
-                    src="assets/images/logos/TRASEALLA_LOGO.svg"
+                    src="/assets/images/logos/TRASEALLA_LOGO.svg"
                     alt="Trasealla Solutions - Future Systems"
                     title="Trasealla Solutions"
+                    style={{ maxHeight: '50px', width: 'auto' }}
                   />
                 </Link>
               </div>
@@ -167,9 +168,10 @@ const Header2 = ({ singleMenu }) => {
               <div className="logo">
                 <Link href="/">
                     <img
-                    src="assets/images/logos/TRASEALLA_LOGO.svg"
+                    src="/assets/images/logos/TRASEALLA_LOGO.svg"
                     alt="Trasealla Solutions - Future Systems"
                     title="Trasealla Solutions"
+                    style={{ maxHeight: '50px', width: 'auto' }}
                   />
                 </Link>
               </div>
@@ -470,13 +472,13 @@ const Header6 = ({ singleMenu }) => {
   );
 };
 
-const Menu = ({ logo = "assets/images/logos/TRASEALLA_LOGO.svg", singleMenu }) => {
+const Menu = ({ logo = "/assets/images/logos/TRASEALLA_LOGO.svg", singleMenu }) => {
   return (
     <Accordion>
       <div className="navbar-header py-15">
         <div className="mobile-logo">
           <Link href="/">
-            <img src={logo} alt="Trasealla Solutions - Future Systems" title="Trasealla Solutions" />
+            <img src={logo} alt="Trasealla Solutions - Future Systems" title="Trasealla Solutions" style={{ maxHeight: '50px', width: 'auto' }} />
           </Link>
         </div>
         {/* Toggle Button */}
@@ -643,10 +645,19 @@ const Menu = ({ logo = "assets/images/logos/TRASEALLA_LOGO.svg", singleMenu }) =
                 <a href="#">blog</a>
                 <ul>
                   <li>
-                    <Link href="/blog">blog</Link>
+                    <Link href="/blog">Blog</Link>
                   </li>
                   <li>
-                    <Link href="/blog-details">blog details</Link>
+                    <Link href="/blog/car-rental">Car Rental</Link>
+                  </li>
+                  <li>
+                    <Link href="/blog/fleet-system">Fleet System</Link>
+                  </li>
+                  <li>
+                    <Link href="/blog/ai-solutions">AI Solutions</Link>
+                  </li>
+                  <li>
+                    <Link href="/blog-details">Blog Details</Link>
                   </li>
                 </ul>
                 <div className="dropdown-btn">

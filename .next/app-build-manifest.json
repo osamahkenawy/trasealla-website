@@ -1,9 +1,9 @@
 {
   "pages": {
-    "/service-details/page": [
+    "/blog/fleet-system/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/service-details/page.js"
+      "static/chunks/app/blog/fleet-system/page.js"
     ],
     "/layout": [
       "static/chunks/webpack.js",
@@ -16,20 +16,40 @@
       "static/chunks/main-app.js",
       "static/chunks/app/page.js"
     ],
+    "/about/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/about/page.js"
+    ],
+    "/blog/car-rental/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/blog/car-rental/page.js"
+    ],
     "/contact/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/chunks/app/contact/page.js"
     ],
-    "/blog-details/page": [
+    "/blog/ai-solutions/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/blog-details/page.js"
+      "static/chunks/app/blog/ai-solutions/page.js"
     ],
-    "/blog/page": [
+    "/cases/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/blog/page.js"
+      "static/chunks/app/cases/page.js"
+    ],
+    "/services/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/services/page.js"
+    ],
+    "/service-details/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/service-details/page.js"
     ]
   }
 }

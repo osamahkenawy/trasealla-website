@@ -2,7 +2,7 @@ import TekprofLayout from "@/layout/TekprofLayout";
 import Link from "next/link";
 const page = () => {
   return (
-    <TekprofLayout>
+    <TekprofLayout header={1} footer={1}>
       <section className="page-banner-area blog-banner pt-30 rel z-1">
         <div className="container-fluid">
           <div

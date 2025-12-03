@@ -70,7 +70,7 @@ const page = () => {
     }
   };
   return (
-    <TekprofLayout>
+    <TekprofLayout >
       <PageBanner pageName="Contact" />
       <section className="contact-form-area pt-130 rpt-100 pb-120 rpb-90">
         <div className="container">

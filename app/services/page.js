@@ -6,7 +6,7 @@ import TekprofLayout from "@/layout/TekprofLayout";
 import Link from "next/link";
 const page = () => {
   return (
-    <TekprofLayout>
+    <TekprofLayout header={1} footer={1}>
       <PageBanner pageName="Our Services" />
       <section className="why-choose-us-area py-130 rpt-100 rpb-75 rel z-1">
         <div className="container">
