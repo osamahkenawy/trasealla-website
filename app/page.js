@@ -34,12 +34,12 @@ const page = () => {
                 data-aos-offset={50}
               >
                 <span className="sub-title mb-15">Future Systems</span>
-                <h2>Smart Automation. Real Results. Fast Growth.</h2>
+                <h2>Where AI Meets Business Intelligence: Transform Operations with Intelligent Automation</h2>
                 <p>
-                  Stop losing bookings to competitors. Our intelligent platforms automate everything—from reservations to fleet tracking to customer service. Join car rental companies, fleet operators, and travel agencies already seeing 40% more revenue and 70% less manual work.
+                  Experience the power of AI-driven platforms that think, learn, and adapt. Our neural networks process millions of data points to optimize your operations, predict trends, and automate complex workflows. Join forward-thinking businesses leveraging cutting-edge AI to achieve unprecedented efficiency and growth.
                 </p>
                 <Link href="services" className="theme-btn mt-15">
-                  Start Growing Today
+                  Explore AI Solutions
                 </Link>
               </div>
             </div>
@@ -50,7 +50,7 @@ const page = () => {
                 data-aos-duration={1500}
                 data-aos-offset={50}
               >
-                <img src="assets/images/hero/trasealla-solutions-ai.jpg" alt="trasealla-solutions-team" />
+                <img src="assets/images/hero/trasealla-solutions-ai.jpg" alt="AI-powered business intelligence platform with neural networks and machine learning technology" />
               </div>
             </div>
           </div>
@@ -72,12 +72,12 @@ const page = () => {
                   Future Systems
                 </span>
                 <h2>
-                  AI-Powered Fleet Management & Automation for Smarter Operations
+                  Intelligent Business Ecosystems: AI-Powered Solutions That Learn and Evolve
                 </h2>
                 <div className="row justify-content-center">
                   <div className="col-lg-10">
                     <p>
-                      Transform your fleet operations with AI-driven automation and real-time telematics. Our intelligent platforms optimize routes, predict maintenance, automate dispatching, and maximize vehicle utilization—turning fleet data into actionable insights that reduce costs and boost efficiency.
+                      Step into the future with AI systems that continuously learn from your operations. Our neural network architectures process real-time data streams, make predictive decisions, and automate complex business logic. Experience self-optimizing platforms that adapt to market changes, customer behavior, and operational patterns—transforming raw data into strategic competitive advantages.
                     </p>
                   </div>
                 </div>
@@ -96,15 +96,15 @@ const page = () => {
                 <div className="image">
                   <img
                     src="assets/images/projects/trasealla-car-rental.png"
-                    alt="Feature"
+                    alt="AI-powered car rental management system with intelligent automation and predictive analytics"
                   />
                 </div>
                 <div className="content">
                   <h4 className="title">
-                    <Link href="service-details">Car Rental Management</Link>
+                    <Link href="service-details">AI-Powered Car Rental Intelligence</Link>
                   </h4>
                   <p>
-                    Complete booking, fleet, and operations platform for car rental companies. Streamline reservations, automate workflows, and boost revenue.
+                    Next-generation rental platform with machine learning algorithms that predict demand, optimize pricing in real-time, and automate customer interactions. Our AI analyzes booking patterns, seasonal trends, and market dynamics to maximize revenue and operational efficiency.
                   </p>
                   <div className="inner-content">
                     <Link className="read-more" href="service-details">
@@ -125,15 +125,15 @@ const page = () => {
                 <div className="image">
                   <img
                     src="assets/images/projects/livemap-1-fleet.png"
-                    alt="Trasealla Solutions Fleet Management & Telematics"
+                    alt="Cognitive fleet management system with AI-driven route optimization and real-time telematics analytics"
                   />
                 </div>
                 <div className="content">
                   <h4 className="title">
-                    <Link href="service-details">Fleet Management & Telematics</Link>
+                    <Link href="service-details">Cognitive Fleet Management System</Link>
                   </h4>
                   <p>
-                    Real-time fleet tracking, telematics integration, and route optimization. Control your vehicles, reduce costs, and improve utilization.
+                    Advanced telematics platform powered by AI that processes vehicle data, driver behavior, and traffic patterns. Our intelligent system predicts maintenance needs, optimizes routes using neural networks, and provides actionable insights through advanced analytics dashboards.
                   </p>
                   <div className="inner-content">
                     <Link className="read-more" href="service-details">
@@ -154,15 +154,15 @@ const page = () => {
                 <div className="image">
                   <img
                     src="assets/images/projects/trasealla-travels.png"
-                    alt="Trasealla Travels"
+                    alt="Intelligent travel platform with AI-powered recommendation engines and predictive demand analytics"
                   />
                 </div>
                 <div className="content">
                   <h4 className="title">
-                    <Link href="service-details">Travel Agency Software</Link>
+                    <Link href="service-details">Intelligent Travel Platform</Link>
                   </h4>
                   <p>
-                    Booking engines, CRM, and automation tools for travel agencies and tour operators. Increase conversions and manage operations efficiently.
+                    AI-enhanced booking ecosystem with predictive analytics for travel demand, personalized recommendations, and automated customer journey management. Leverage machine learning to optimize package pricing, forecast trends, and deliver exceptional customer experiences.
                   </p>
                   <div className="inner-content">
                     <Link className="read-more" href="service-details">
@@ -183,15 +183,15 @@ const page = () => {
                 <div className="image">
                   <img
                     src="assets/images/projects/car -service-provider.png"
-                    alt="Car Service Provider System"
+                    alt="Smart service management hub with AI-driven scheduling and predictive maintenance algorithms"
                   />
                 </div>
                 <div className="content">
                   <h4 className="title">
-                    <Link href="service-details">Car Service Provider System</Link>
+                    <Link href="service-details">Smart Service Management Hub</Link>
                   </h4>
                   <p>
-                    Comprehensive platform for automotive service centers. Manage appointments, track repairs, handle customer records, and streamline service operations with automated workflows.
+                    Intelligent service center platform with AI-driven scheduling, predictive maintenance alerts, and automated customer communication. Our system learns from service history to optimize workflows, reduce downtime, and enhance customer satisfaction through data-driven insights.
                   </p>
                   <div className="inner-content">
                     <Link className="read-more" href="service-details">
@@ -219,11 +219,11 @@ const page = () => {
                 <div className="section-title mb-25">
                   <span className="sub-title mb-10">Why Choose Us</span>
                   <h2>
-                    Transform Your Business with AI-Powered Software Built for Your Industry
+                    Harness the Power of Neural Networks and Machine Learning for Business Transformation
                   </h2>
                 </div>
                 <p>
-                  Stop using generic software that doesn't fit. Our intelligent platforms are purpose-built for car rental companies, fleet operators, travel agencies, and service centers. Boost bookings, slash operational costs, and scale faster with automation that actually works.
+                  Move beyond traditional software limitations. Our AI-powered platforms use deep learning algorithms, natural language processing, and predictive analytics to create intelligent business ecosystems. Experience self-learning systems that continuously improve, adapt to your industry's unique challenges, and deliver measurable results through data-driven automation.
                 </p>
                 <Link href="about" className="theme-btn mt-20 mb-50">
                   Learn More About Us
@@ -240,10 +240,10 @@ const page = () => {
                         <i className="flaticon-experts" />
                       </div>
                       <h5>
-                        <Link href="service-details">AI-Driven Automation</Link>
+                        <Link href="service-details">Neural Network Automation</Link>
                       </h5>
                       <p>
-                        Smart workflows that reduce manual work by 70%. From automated bookings to predictive maintenance, our AI handles the heavy lifting so you can focus on growth.
+                        Advanced AI systems that process complex business logic through deep learning models. Our neural networks automate decision-making, pattern recognition, and predictive analytics—reducing operational overhead while increasing accuracy and speed.
                       </p>
                     </div>
                   </div>
@@ -253,10 +253,10 @@ const page = () => {
                         <i className="flaticon-loyal-customer" />
                       </div>
                       <h5>
-                        <Link href="service-details">Real-Time Insights</Link>
+                        <Link href="service-details">Advanced Analytics & Business Intelligence</Link>
                       </h5>
                       <p>
-                        Make data-driven decisions with live dashboards showing bookings, fleet utilization, and revenue trends. See what's working and what needs attention—instantly.
+                        Transform raw data into strategic intelligence with AI-powered dashboards and predictive models. Our systems analyze patterns, forecast trends, and provide actionable insights through advanced data visualization and machine learning algorithms.
                       </p>
                     </div>
                   </div>
@@ -272,12 +272,12 @@ const page = () => {
                   data-aos-offset={50}
                 >
                   <img
-                    src="assets/images/about/why-choose1.jpg"
+                    src="assets/images/about/trasealla-about-page-05.jpg"
                     alt="Why Choose"
                   />
                   <img
-                    src="assets/images/about/why-choose2.jpg"
-                    alt="Why Choose"
+                    src="assets/images/about/trasealla-about-page-04.jpg"
+                    alt="Advanced business intelligence and data analytics dashboard"
                   />
                 </div>
                 <div
@@ -288,12 +288,12 @@ const page = () => {
                   data-aos-offset={50}
                 >
                   <img
-                    src="assets/images/about/why-choose3.jpg"
-                    alt="Why Choose"
+                    src="assets/images/about/trasealla-about-page-03.jpg"
+                    alt="Machine learning model training and neural network implementation"
                   />
                   <img
-                    src="assets/images/about/why-choose4.jpg"
-                    alt="Why Choose"
+                    src="assets/images/about/trasealla-about-page-02.JPG"
+                    alt="Predictive analytics platform with real-time data processing"
                   />
                 </div>
               </div>
@@ -303,154 +303,9 @@ const page = () => {
       </section>
       {/* Why Choose Us Area end */}
       {/* Services Area start */}
-      <section className="services-area bgc-blue pt-130 rpt-100 rel z-1">
-        <div className="container-fluid">
-          <div className="row justify-content-center">
-            <div className="col-xl-8 col-lg-10">
-              <div
-                className="section-title text-white text-center mb-70"
-                data-aos="fade-up"
-                data-aos-duration={1500}
-                data-aos-offset={50}
-              >
-                <span className="sub-title color-primary mb-10">
-                  Future Systems
-                </span>
-                <h2>Software & AI Solutions for Car Rental, Fleet & Travel</h2>
-              </div>
-            </div>
-          </div>
-          <div className="row justify-content-center">
-            <div
-              className="col-xxl-3 col-lg-4 col-sm-6"
-              data-aos="fade-up"
-              data-aos-delay={100}
-              data-aos-duration={1500}
-              data-aos-offset={50}
-            >
-              <div className="service-item hover-content">
-                <div className="image">
-                  <img
-                    src="assets/images/services/service1.jpg"
-                    alt="Feature"
-                  />
-                </div>
-                <div className="content">
-                  <h4 className="title">
-                    <Link href="service-details">
-                      <i className="flaticon-it" /> Car Rental Management System
-                    </Link>
-                  </h4>
-                  <div className="inner-content">
-                    <p>
-                      Complete platform for managing bookings, fleet, pricing, and operations. Increase bookings, automate workflows, and optimize revenue with real-time dashboards.
-                    </p>
-                    <Link className="read-more" href="service-details">
-                      Read More <i className="far fa-arrow-right" />
-                    </Link>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div
-              className="col-xxl-3 col-lg-4 col-sm-6"
-              data-aos="fade-up"
-              data-aos-delay={200}
-              data-aos-duration={1500}
-              data-aos-offset={50}
-            >
-              <div className="service-item hover-content">
-                <div className="image">
-                  <img
-                    src="assets/images/services/service2.jpg"
-                    alt="Feature"
-                  />
-                </div>
-                <div className="content">
-                  <h4 className="title">
-                    <Link href="service-details">
-                      <i className="flaticon-network-security" /> Fleet Management & Telematics
-                    </Link>
-                  </h4>
-                  <div className="inner-content">
-                    <p>
-                      Real-time fleet tracking, GPS integration, route optimization, and vehicle analytics. Reduce costs, improve utilization, and maintain full visibility of your fleet.
-                    </p>
-                    <Link className="read-more" href="service-details">
-                      Read More <i className="far fa-arrow-right" />
-                    </Link>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div
-              className="col-xxl-3 col-lg-4 col-sm-6"
-              data-aos="fade-up"
-              data-aos-delay={300}
-              data-aos-duration={1500}
-              data-aos-offset={50}
-            >
-              <div className="service-item hover-content">
-                <div className="image">
-                  <img
-                    src="assets/images/services/service3.jpg"
-                    alt="Feature"
-                  />
-                </div>
-                <div className="content">
-                  <h4 className="title">
-                    <Link href="service-details">
-                      <i className="flaticon-cloud" /> Travel Agency Booking System
-                    </Link>
-                  </h4>
-                  <div className="inner-content">
-                    <p>
-                      Powerful booking engine, CRM, and automation tools for travel agencies. Manage tours, packages, and customer relationships with integrated workflows.
-                    </p>
-                    <Link className="read-more" href="service-details">
-                      Read More <i className="far fa-arrow-right" />
-                    </Link>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div
-              className="col-xxl-3 col-lg-4 col-sm-6"
-              data-aos="fade-up"
-              data-aos-delay={400}
-              data-aos-duration={1500}
-              data-aos-offset={50}
-            >
-              <div className="service-item hover-content">
-                <div className="image">
-                  <img
-                    src="assets/images/services/service4.jpg"
-                    alt="Feature"
-                  />
-                </div>
-                <div className="content">
-                  <h4 className="title">
-                    <Link href="service-details">
-                      <i className="flaticon-data-management" /> ERP & AI Automation
-                    </Link>
-                  </h4>
-                  <div className="inner-content">
-                    <p>
-                      Custom ERP systems, AI chatbots, workflow automation, and predictive analytics. Automate bookings, invoices, reminders, and optimize pricing with AI.
-                    </p>
-                    <Link className="read-more" href="service-details">
-                      Read More <i className="far fa-arrow-right" />
-                    </Link>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </section>
       {/* Services Area end */}
       {/* Achievement Area start */}
-      <section
+      {/* <section
         className="achievement-area bgc-blue bgs-cover pt-100 rpt-70 pb-130 rpb-130 rel z-1"
         style={{
           backgroundImage: "url(assets/images/background/achievement-bg.jpg)",
@@ -467,10 +322,10 @@ const page = () => {
               >
                 <div className="section-title mb-30">
                   <span className="sub-title mb-10">Future Systems</span>
-                  <h2>Building the Future of Mobility & Travel Technology</h2>
+                  <h2>Pioneering the Next Generation of Intelligent Business Systems</h2>
                 </div>
                 <p>
-                  We help car rental, fleet, and travel businesses grow bookings, optimize operations, and scale with smart software, AI automation, and digital marketing.
+                  We architect AI-powered ecosystems that transform how businesses operate. Through advanced machine learning, neural networks, and predictive analytics, we create intelligent platforms that learn, adapt, and evolve—delivering unprecedented efficiency and competitive advantages.
                 </p>
                 <Link href="contact" className="theme-btn mt-20">
                   Book a Demo
@@ -574,7 +429,7 @@ const page = () => {
             </div>
           </div>
         </div>
-      </section>
+      </section> */}
       {/* Achievement Area end */}
       {/* Team Area start */}
       <section className="team-area py-130 rpy-100 rel z-1">
@@ -616,23 +471,22 @@ const page = () => {
                 <div className="image">
                   <img
                     src="assets/images/features/feature-two1.jpg"
-                    alt="Feature"
+                    alt="AI strategy and neural network architecture design with deep learning models"
                   />
                 </div>
                 <div className="content">
                   <div className="tags">
-                    <Link href="blog">IT Service</Link>
-                    <Link href="blog">Cyber Security</Link>
+                    <Link href="blog">AI & Machine Learning</Link>
+                    <Link href="blog">Business Intelligence</Link>
                   </div>
                   <h3 className="title">
                     <Link href="service-details">
-                      Assessment and Strategy Development
+                      AI Strategy & Neural Network Architecture Design
                     </Link>
                   </h3>
                   <div className="inner-content">
                     <p>
-                      We implemented multi-layered cybersecurity measures
-                      including firewall protection, real-time threat
+                      We design intelligent system architectures using deep learning models, machine learning algorithms, and advanced data processing frameworks to create self-optimizing business ecosystems.
                     </p>
                     <Link className="details-btn" href="service-details">
                       <i className="far fa-arrow-right" />
@@ -652,23 +506,22 @@ const page = () => {
                 <div className="image">
                   <img
                     src="assets/images/features/feature-two2.jpg"
-                    alt="Feature"
+                    alt="Machine learning implementation and model training with neural network architectures"
                   />
                 </div>
                 <div className="content">
                   <div className="tags">
-                    <Link href="blog">IT Service</Link>
-                    <Link href="blog">Cyber Security</Link>
+                    <Link href="blog">AI & Machine Learning</Link>
+                    <Link href="blog">Business Intelligence</Link>
                   </div>
                   <h3 className="title">
                     <Link href="service-details">
-                      Enhanced Cybersecurity Protocols solutions
+                      Machine Learning Implementation & Model Training
                     </Link>
                   </h3>
                   <div className="inner-content">
                     <p>
-                      We implemented multi-layered cybersecurity measures
-                      including firewall protection, real-time threat
+                      We deploy advanced machine learning models with neural network architectures, training systems on your data to create intelligent automation that continuously improves performance and accuracy.
                     </p>
                     <Link className="details-btn" href="service-details">
                       <i className="far fa-arrow-right" />
@@ -688,23 +541,22 @@ const page = () => {
                 <div className="image">
                   <img
                     src="assets/images/features/feature-two3.jpg"
-                    alt="Feature"
+                    alt="Predictive analytics and business intelligence platform with AI algorithms"
                   />
                 </div>
                 <div className="content">
                   <div className="tags">
-                    <Link href="blog">IT Service</Link>
-                    <Link href="blog">Cyber Security</Link>
+                    <Link href="blog">AI & Machine Learning</Link>
+                    <Link href="blog">Business Intelligence</Link>
                   </div>
                   <h3 className="title">
                     <Link href="service-details">
-                      Cloud Migration and Optimization
+                      Predictive Analytics & Business Intelligence Platform
                     </Link>
                   </h3>
                   <div className="inner-content">
                     <p>
-                      We implemented multi-layered cybersecurity measures
-                      including firewall protection, real-time threat
+                      We build advanced analytics platforms that process massive datasets through AI algorithms, providing predictive insights, trend forecasting, and data-driven decision support systems.
                     </p>
                     <Link className="details-btn" href="service-details">
                       <i className="far fa-arrow-right" />
@@ -718,7 +570,7 @@ const page = () => {
       </section>
       {/* Features Area end */}
       {/* Testimonials Area start */}
-      <Testimonials />
+      {/* <Testimonials /> */}
       {/* Testimonials Area end */}
       {/* Client Logo Area start */}
       <ClientLogo />
@@ -737,7 +589,7 @@ const page = () => {
                 <span className="sub-title color-primary mb-10">
                   News &amp; Blog
                 </span>
-                <h2>Latest Insights on Car Rental, Fleet & Travel Technology</h2>
+                <h2>Latest Insights on AI, Machine Learning & Intelligent Business Systems</h2>
               </div>
             </div>
           </div>
@@ -751,12 +603,12 @@ const page = () => {
             >
               <div className="blog-item hover-content">
                 <div className="image">
-                  <img src="assets/images/blog/blog1.jpg" alt="Blog" />
+                  <img src="assets/images/blog/ai/ai-robot-with-human.jpg" alt="AI automation transforming business operations with intelligent systems" />
                 </div>
                 <div className="content">
                   <ul className="blog-meta">
                     <li>
-                      <a href="#">Car Rental Software</a>
+                      <a href="#">AI & Machine Learning</a>
                     </li>
                     <li>
                       <a href="#">25 December 2024</a>
@@ -787,12 +639,12 @@ const page = () => {
             >
               <div className="blog-item hover-content">
                 <div className="image">
-                  <img src="assets/images/blog/blog2.jpg" alt="Blog" />
+                  <img src="assets/images/blog/ai/ai-robot-with-humans.jpg" alt="Real-time fleet tracking and telematics with AI-powered analytics" />
                 </div>
                 <div className="content">
                   <ul className="blog-meta">
                     <li>
-                      <Link href="blog">Fleet Management</Link>
+                      <Link href="blog">Neural Networks</Link>
                     </li>
                     <li>
                       <Link href="blog">25 December 2024</Link>
@@ -823,12 +675,12 @@ const page = () => {
             >
               <div className="blog-item hover-content">
                 <div className="image">
-                  <img src="assets/images/blog/blog3.jpg" alt="Blog" />
+                  <img src="assets/images/blog/ai/ai-with-robot-2.jpg" alt="Digital marketing and AI strategies for intelligent business growth" />
                 </div>
                 <div className="content">
                   <ul className="blog-meta">
                     <li>
-                      <Link href="blog">Travel Technology</Link>
+                      <Link href="blog">Predictive Analytics</Link>
                     </li>
                     <li>
                       <Link href="blog">25 December 2024</Link>

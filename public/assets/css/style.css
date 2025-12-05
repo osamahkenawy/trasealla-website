@@ -220,8 +220,7 @@ input[type=checkbox], input[type=radio] {
 
 @media only screen and (min-width: 1400px) {
   .container-fluid {
-    padding-left: 70px;
-    padding-right: 70px; } }
+  } }
 
 .row {
   --bs-gutter-x: 30px; }

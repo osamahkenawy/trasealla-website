@@ -1,13 +1,55 @@
 import ClientLogo from "@/components/ClientLogo";
 import Counter from "@/components/Counter";
-import PageBanner from "@/components/PageBanner";
 import Team from "@/components/Team";
 import { Testimonials2 } from "@/components/testimonials/Testimonials2";
 import TekprofLayout from "@/layout/TekprofLayout";
+import Link from "next/link";
+
 const page = () => {
   return (
     <TekprofLayout header={1} footer={1}>
-      <PageBanner pageName="About Company" />
+      <section className="page-banner-area pt-30 rel z-1">
+        <div className="container-fluid">
+          <div
+            className="banner-wrap bgs-cover py-80"
+            style={{
+              backgroundImage: "url(/assets/images/about/trasealla_about_banner.svg)",
+            }}
+          > 
+            <div className="container">
+              <div className="banner-inner">
+                <div className="row align-items-center">
+                  <div className="col-lg-6">
+                    <h1
+                      className="page-title mb-20"
+                      data-aos="fade-up"
+                      data-aos-duration={1500}
+                      data-aos-offset={50}
+                    >
+                      About Company
+                    </h1>
+                    <nav aria-label="breadcrumb">
+                      <ol
+                        className="breadcrumb"
+                        data-aos="fade-up"
+                        data-aos-delay={200}
+                        data-aos-duration={1500}
+                        data-aos-offset={50}
+                      >
+                        <li className="breadcrumb-item">
+                          <Link href="/">Home</Link>
+                        </li>
+                        <li className="breadcrumb-item active">About Company</li>
+                      </ol>
+                    </nav>
+                  </div>
+                
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
       {/* About Page About Area Start */}
       <section className="about-page-about-area pt-130 rpt-100 pb-110 rpb-80">
         <div className="container">
@@ -36,7 +78,7 @@ const page = () => {
                     data-aos-offset={50}
                   >
                     <p>
-                      Trasealla Solutions builds smart software platforms, AI automations, and digital marketing solutions specifically for car rental companies, fleet & transportation businesses, and travel agencies. Founded by Osamah Alaaeldin Kenawy, we combine software products, AI & automation, and digital marketing to help clients grow bookings, optimize operations, and scale.
+                      Trasealla Solutions builds smart software platforms, AI automations, and digital marketing solutions specifically for car rental companies, fleet & transportation businesses, and travel agencies. Founded by Osamah Kenawy, we combine software products, AI & automation, and digital marketing to help clients grow bookings, optimize operations, and scale.
                     </p>
                   </div>
                   <div
@@ -60,29 +102,8 @@ const page = () => {
                 data-aos-duration={1500}
                 data-aos-offset={50}
               >
-                <div className="trusted-clients-wrap pb-40 mb-30">
-                  <h5>10m+ Trusted Partners</h5>
-                  <div className="trusted-clients">
-                    <img
-                      src="assets/images/testimonials/client1.jpg"
-                      alt="Client"
-                    />
-                    <img
-                      src="assets/images/testimonials/client2.jpg"
-                      alt="Client"
-                    />
-                    <img
-                      src="assets/images/testimonials/client3.jpg"
-                      alt="Client"
-                    />
-                    <img
-                      src="assets/images/testimonials/client4.jpg"
-                      alt="Client"
-                    />
-                  </div>
-                </div>
                 <img src="assets/images/logos/trustpilot.png" alt="Logo" />
-                <p>8930+ reviews</p>
+                <p>830+ reviews</p>
                 <div className="ratting">
                   <i className="fas fa-star" />
                   <i className="fas fa-star" />
@@ -107,7 +128,7 @@ const page = () => {
               data-aos-offset={50}
             >
               <img
-                src="assets/images/about/about-page-image1.jpg"
+                src="assets/images/about/ai-about-us-trasealla.svg"
                 alt="About Image"
               />
             </div>
@@ -118,7 +139,7 @@ const page = () => {
               data-aos-offset={50}
             >
               <img
-                src="assets/images/about/about-page-image2.jpg"
+                src="assets/images/about/ABOUT_TRASEALLA.svg"
                 alt="About Image"
               />
             </div>
@@ -138,7 +159,7 @@ const page = () => {
                 data-aos-offset={50}
               >
                 <div className="section-title mb-30">
-                  <h2>Experience Excellence with Trasealla Solutions</h2>
+                  <h2>Experience Excellence with Trasealla</h2>
                 </div>
                 <p>
                   At Trasealla Solutions, excellence is at the core of everything we do. Our team of dedicated professionals combines deep industry expertise in car rental, fleet management, and travel technology with a passion for innovation to deliver high-quality, tailored software solutions that drive real results. We pride ourselves on meticulous attention to detail, our commitment to client satisfaction, and our ability to turn complex operational challenges into simple, automated workflows. When you partner with us, you're not just getting a service provider—you're gaining a trusted partner committed to helping your car rental, fleet, or travel business succeed. Discover what true excellence means with Trasealla Solutions by your side.
@@ -202,11 +223,9 @@ const page = () => {
                   <i className="flaticon-idea" />
                 </div>
                 <div className="content">
-                  <h4>Customizable Solutions</h4>
+                  <h4>AI-Powered Automation</h4>
                   <p>
-                    Providing highly customizable solutions tailored to each
-                    client’s unique needs can set you apart. Clients are
-                    looking.
+                    Intelligent automation reduces manual work by 70% through AI-driven booking management, pricing optimization, and predictive analytics for car rental and fleet operations.
                   </p>
                 </div>
               </div>
@@ -223,10 +242,9 @@ const page = () => {
                   <i className="flaticon-grow" />
                 </div>
                 <div className="content">
-                  <h4>Scalability &amp; Flexibility</h4>
+                  <h4>Real-Time GPS Tracking &amp; Telematics</h4>
                   <p>
-                    Scalable solutions allow companies to grow without needing
-                    to overhaul their software infrastructure architecture .
+                    Advanced GPS tracking and telematics provide real-time vehicle location, driver behavior monitoring, and fleet analytics to optimize operations and reduce costs by up to 25%.
                   </p>
                 </div>
               </div>
@@ -243,10 +261,9 @@ const page = () => {
                   <i className="flaticon-data-protection" />
                 </div>
                 <div className="content">
-                  <h4>Security &amp; Compliance</h4>
+                  <h4>Intelligent Route Optimization</h4>
                   <p>
-                    Prioritizing security ensures protection and compliance with
-                    industry standards and regulations, safeguarding against.
+                    AI-powered route optimization algorithms reduce fuel consumption, decrease delivery times, and increase vehicle utilization by 30% through intelligent dispatching and traffic analysis.
                   </p>
                 </div>
               </div>
@@ -263,11 +280,9 @@ const page = () => {
                   <i className="flaticon-idea" />
                 </div>
                 <div className="content">
-                  <h4>Customizable Solutions</h4>
+                  <h4>Predictive Maintenance &amp; Analytics</h4>
                   <p>
-                    Providing highly customizable solutions tailored to each
-                    client’s unique needs can set you apart. Clients are
-                    looking.
+                    Machine learning algorithms predict vehicle maintenance needs before breakdowns occur, reducing maintenance expenses by 40% and extending vehicle lifespan through proactive scheduling.
                   </p>
                 </div>
               </div>
@@ -284,10 +299,9 @@ const page = () => {
                   <i className="flaticon-grow" />
                 </div>
                 <div className="content">
-                  <h4>Scalability &amp; Flexibility</h4>
+                  <h4>Revenue Optimization &amp; Pricing Intelligence</h4>
                   <p>
-                    Scalable solutions allow companies to grow without needing
-                    to overhaul their software infrastructure architecture .
+                    Dynamic pricing engines and revenue management systems automatically adjust rates based on demand, seasonality, and market conditions, increasing revenue by up to 40%.
                   </p>
                 </div>
               </div>
@@ -304,10 +318,9 @@ const page = () => {
                   <i className="flaticon-data-protection" />
                 </div>
                 <div className="content">
-                  <h4>Security &amp; Compliance</h4>
+                  <h4>Seamless Integration &amp; Scalability</h4>
                   <p>
-                    Prioritizing security ensures protection and compliance with
-                    industry standards and regulations, safeguarding against.
+                    Cloud-based platforms integrate seamlessly with existing systems, payment gateways, and third-party logistics platforms, scaling from small fleets to enterprise operations.
                   </p>
                 </div>
               </div>

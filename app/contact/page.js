@@ -116,7 +116,7 @@ const page = () => {
                       <span className="title">Phone / WhatsApp</span>
                      
                       <a href="tel:+971558446048">
-                        +971 55 844 6048
+                        +971522200730
                       </a>
                     </div>
                   </div>

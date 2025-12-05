@@ -167,3 +167,15 @@
   color: white;
   background: var(--tekprof-navyblue-color);
 }
+
+.team-item .image {
+  overflow: hidden;
+  aspect-ratio: 1 / 1;
+}
+
+.team-item .image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
+}

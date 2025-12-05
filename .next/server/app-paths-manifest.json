@@ -1,9 +1,8 @@
 {
-  "/blog/fleet-system/page": "app/blog/fleet-system/page.js",
-  "/page": "app/page.js",
+  "/_not-found/page": "app/_not-found/page.js",
   "/blog/car-rental/page": "app/blog/car-rental/page.js",
-  "/cases/page": "app/cases/page.js",
+  "/blog/fleet-system/page": "app/blog/fleet-system/page.js",
   "/services/page": "app/services/page.js",
-  "/service-details/page": "app/service-details/page.js",
-  "/about/page": "app/about/page.js"
+  "/contact/page": "app/contact/page.js",
+  "/page": "app/page.js"
 }
